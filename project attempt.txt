@@ -1,0 +1,14 @@
+person- attributes
+  first name
+  last name
+  dob
+  email
+  contact
+  gender
+  location
+  
+  customer - attributes
+     customer prefix CUS
+	 customer registration date
+	 h
+	 
